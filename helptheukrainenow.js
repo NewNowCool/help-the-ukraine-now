@@ -84,6 +84,7 @@ function init() {
   document.body.append(container);
 
   const clickListener = bg.addEventListener("click", function () {
+    document.removeEventListener("keydown", keyListener);
     bg.removeEventListener("click", clickListener);
     container.remove();
     styles.remove();
@@ -93,6 +94,7 @@ function init() {
     if (!["Escape", "Enter"].includes(event.key)) return;
 
     document.removeEventListener("keydown", keyListener);
+    bg.removeEventListener("click", clickListener);
     container.remove();
     styles.remove();
   });
