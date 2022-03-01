@@ -1,14 +1,14 @@
 function init() {
-  if (window.HELP_THE_UKRAINE) return;
+  if (window.HELP_THE_UKRAINE_NOW) return;
 
-  window.HELP_THE_UKRAINE = true;
+  window.HELP_THE_UKRAINE_NOW = true;
 
   const titleContent =
-    window.HELP_THE_UKRAINE_TITLE ||
+    window.HELP_THE_UKRAINE_NOW_TITLE ||
     "Россияне: Ваше правительство лжет вам об Украине. Убивают невинных людей и детей!";
 
   const textContent =
-    window.HELP_THE_UKRAINE_TEXT ||
+    window.HELP_THE_UKRAINE_NOW_TEXT ||
     "Пожалуйста, найдите способ узнать правду от семьи, друзей или из новостей за пределами России! Восстание!";
 
   const styles = document.createElement("style");
