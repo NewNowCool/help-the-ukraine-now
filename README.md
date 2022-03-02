@@ -12,15 +12,15 @@ Translation:
 Russians: Your government lies to you about Ukraine. Please find a way to get the truth from family, friends or news outside of Russia! Innocent people and children are being killed! Revolt!
 
 
-## How to
+## How to does it work?
 
-Just add the following snippet to your page.
+Just add the following snippet to your page. Every visitor with russian as the browser language will see the popup. Clicking anywhere closes it again. 
 
 ```html
 <script src="https://raw.githubusercontent.com/NewNowCool/help-the-ukraine-now/main/helptheukrainenow.js"></script>
 ```
 
-## If you want to change the message
+## If you want to change the message...
 
 You can change the title and text like this.
 
