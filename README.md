@@ -9,7 +9,7 @@ Dear website owners: if you put this little script into you site, it will show a
 Россияне. Ваше правительство лжет вам об Украине. Пожалуйста, найдите способ узнать правду от семьи, друзей или из новостей за пределами России! Убивают невинных людей и детей! Восстание!
 
 Translation:
-Russian: Your government lies to you about Ukraine. Please find a way to get the truth from family, friends or news outside of Russia! Innocent people and children are being killed! Revolt!
+Russians: Your government lies to you about Ukraine. Please find a way to get the truth from family, friends or news outside of Russia! Innocent people and children are being killed! Revolt!
 
 
 ## How to
@@ -20,7 +20,7 @@ Just add the following snippet to your page.
 <script src="https://raw.githubusercontent.com/NewNowCool/help-the-ukraine-now/main/helptheukrainenow.js"></script>
 ```
 
-## Change the message
+## If you want to change the message
 
 You can change the title and text like this.
 
