@@ -5,7 +5,7 @@
 Just add the following snippet to your page.
 
 ```html
-<script src="https://raw.githubusercontent.com/NewNowCool/help-the-ukraine-now/main/helptheukrainenow.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/NewNowCool/help-the-ukraine-now/helptheukrainenow.js"></script>
 ```
 
 ## Change the message
@@ -18,5 +18,5 @@ You can change the title and text like this.
   window.HELP_THE_UKRAINE_NOW_TEXT = "Your custom text";
 </script>
 
-<script src="https://raw.githubusercontent.com/NewNowCool/help-the-ukraine-now/main/helptheukrainenow.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/NewNowCool/help-the-ukraine-now/helptheukrainenow.js"></script>
 ```
