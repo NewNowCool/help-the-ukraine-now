@@ -5,7 +5,7 @@
 
 ## What is this?
 
-Dear website owners: if you put this little script into your site, it will show an awareness popup to Russian visitors. Many official sites might be currently blocked, but yours isn’t. Many Russians already know, but some might need a nudge. Note: This will not block Russian visitors from your page. Click anywhere and the popup closes.
+Dear website owners: if you put this little script into your site, it will show a war awareness popup to Russian visitors. Many official sites might be currently blocked, but yours isn’t. Many Russians already know, but some might need a nudge. Note: This will not block Russian visitors from your page. Click anywhere and the popup closes.
 
 
 **Just add the following snippet before ```</body>``` tag of your page.**  
