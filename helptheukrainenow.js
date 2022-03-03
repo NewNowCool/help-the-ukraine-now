@@ -1,6 +1,8 @@
 function init() {
   if (window.HELP_THE_UKRAINE_NOW) return;
 
+  if (window.navigator.language !== "ru") return;
+
   window.HELP_THE_UKRAINE_NOW = true;
 
   const titleContent =
@@ -16,6 +18,7 @@ function init() {
   styles.innerHTML = `
 .help-the-ukraine-now {
   position: fixed;
+  z-index: 9999;
   top: 0;
   left: 0;
   bottom: 0;
