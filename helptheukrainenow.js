@@ -54,6 +54,7 @@ function init() {
   font-size: 18px;
   line-height: 27px;
   font-family: Helvetica, sans-serif;
+  color: #000;
 }
 
 .help-the-ukraine-now__text {
@@ -62,6 +63,7 @@ function init() {
   font-size: 18px;
   line-height: 27px;
   font-family: Helvetica, sans-serif;
+  color: #000;
 }
 `;
 
