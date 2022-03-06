@@ -10,7 +10,7 @@ Dear website owners: if you put this little script into your site, it will show 
 
 **Just add the following snippet before ```</body>``` tag of your page.**  
 ```html
-<script defer src="https://helptheukrainenow.newnow.cool/helptheukrainenow.js"></script>
+<script type="text/javascript" src="https://helptheukrainenow.newnow.cool/helptheukrainenow.js" async defer></script>
 ```
 
 It says:  
@@ -30,5 +30,5 @@ You can change the title and text like this.
   window.HELP_THE_UKRAINE_NOW_TEXT = "Your custom text";
 </script>
 
-<script defer src="https://helptheukrainenow.newnow.cool/helptheukrainenow.js"></script>
+<script type="text/javascript" src="https://helptheukrainenow.newnow.cool/helptheukrainenow.js" async defer></script>
 ```
